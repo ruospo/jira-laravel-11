@@ -11,7 +11,7 @@
 
 ---
 
-**Jira PHP** for Laravel is a supercharged PHP API client that allows you to interact with
+**Jira PHP** for Laravel is a supercharged PHP API client that allows you to interact with THIS IS A FORK of devmoath/jira-php
 the [Jira API](https://docs.atlassian.com/software/jira/docs/api/REST/8.0.0) and
 the [Service Desk API](https://docs.atlassian.com/jira-servicedesk/REST/5.2.0/).
 
