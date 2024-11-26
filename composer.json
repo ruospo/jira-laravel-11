@@ -1,6 +1,6 @@
 {
-    "name": "devmoath/jira-laravel",
-    "description": "Jira PHP for Laravel is a supercharged PHP API client that allows you to interact with the Jira API and the Service Desk API",
+    "name": "customcode/jira-laravel-11",
+    "description": "Jira PHP for Laravel is a supercharged PHP API client that allows you to interact with the Jira API and the Service Desk API. This is a Fork of jira-laravel - Moath Alhajri",
     "keywords": [
         "laravel",
         "php",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Moath Alhajri",
-            "email": "moath.alhajrii@gmail.com"
+            "name": "Antonio Ruospo",
+            "email": "antonio.ruospo@customcode.it"
         }
     ],
     "require": {
